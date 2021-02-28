@@ -1,0 +1,2 @@
+*Automatizar mandar correos desde la terminal, estaba en el apartado 18 del curso de la terminal
+
