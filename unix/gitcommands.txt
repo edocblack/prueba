@@ -13,3 +13,5 @@ git reset #commit --sfot (Volvemos a una versión de commit sin eliminar los otr
 git reset HEAD (Pasa los archivos de staging a unstaged)
 git reset #commit --hard (Volvemos a una versión de commit eliminando todos los demas)
 git checkout #commit #archivo (Volvemos a una versión de commmit sin cambiar nada en el staging)
+
+
