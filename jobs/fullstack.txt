@@ -1,0 +1,26 @@
+FULLSTACK DEVELOPER
+
+PERFIL DEL PUESTO:
+
+Ella o él se encargará del desarrollo de Software a la medida, Desarrollo de Apps, 
+Investigación para la innovación de nuevas tecnologías aplicables a nuestros clientes 
+y a Madata
+
+COMPETENCIAS:
+
+*Desarrollo de Software
+*Trabajar junto a equipos multidisciplinarios
+*Fuerte habilidad analítica para trasladar requerimientos de negocio en soluciones
+*Innovación y creatividad
+*Bilingüe inglés/ español
+
+
+CONOCIMIENTOS:
+
+*Dominio de lenguajes front-end fundamentales como HTML, CSS y JavaScript.
+*Familiaridad con frameworks de JavaScript como Angular JS, React y Amber.
+*Competencia con lenguajes del lado del servidor como Python, Ruby, Java, PHP y .Net. Desarrollo de la arquitectura del sitio web front-end.
+*Desarrollo de aplicaciones web de back- end.
+*Creación de servidores y bases de datos para funcionalidad. Desarrollo de la arquitectura del sitio web front-end.
+*Creación de servidores y bases de datos de acuerdo a DevOps
+*Diseño y desarrollo de API.
