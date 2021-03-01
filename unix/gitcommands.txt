@@ -20,3 +20,4 @@ git tag -a %nombredeltag %idcommit (Crear tag)
 git tag -d %nombredeltag (Eliminar tag)
 git tag (Listar tags)
 git show-ref --tags (Listar tags)
+ 
