@@ -1,5 +1,6 @@
 git init (Idicar carpeta central de archivos)
 git config global user.name (Configurar git a nuestro nombre)
+git clone %linkdegithub (Descargar proyecto de github)
 git add (Agregar archivo al staging)
 git rm --cached (Eliminamos el archivo del staging)
 git commit -am (Hace funcion de add y commit juntas)
@@ -19,8 +20,3 @@ git tag -a %nombredeltag %idcommit (Crear tag)
 git tag -d %nombredeltag (Eliminar tag)
 git tag (Listar tags)
 git show-ref --tags (Listar tags)
-
-
-
-
-
