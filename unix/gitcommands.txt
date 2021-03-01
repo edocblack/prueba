@@ -15,4 +15,12 @@ git reset #commit --hard (Volvemos a una versión de commit eliminando todos los
 git checkout #commit #archivo (Volvemos a una versión de commmit sin cambiar nada en el staging)
 git branch %nuevarama (Creamos una nueva rama)
 git merge %rama (Combinamos la rama actual en la que estamos y la que mandamos a llamar con el comando)
+git tag -a %nombredeltag %idcommit (Crear tag)
+git tag -d %nombredeltag (Eliminar tag)
+git tag (Listar tags)
+git show-ref --tags (Listar tags)
+
+
+
+
 
