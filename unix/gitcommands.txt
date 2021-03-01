@@ -31,4 +31,7 @@ git clean -f (Ejecuta el comando de borrar)
 git commit --amend (Agrega los cambios que estan en staging al ultimo commit)
 git reflog (Historia commit)
 git reset --HARD %commit (Vuelve hasta ese y reccupera todo hasta lo borrado)
-
+git grep %palabra (Buscar una palabra en los archivos)
+git log -S "%palabra" (Buscar palabra en los commits)
+git grep -c %palabra (Cuenta la palabra en los archivos)
+git grep -n %palabra (Buscar una palabra en los archivos y te dice la linea en la que se encuentran)
