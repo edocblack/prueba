@@ -27,3 +27,5 @@ git stash drop (Eliminas el stash de la memoria)
 git stash branch %nombrerama (Mueves el stash a la otra rama) 
 git clean --dry-run (Muestra todo lo que borrará)
 git clean -f (Ejecuta el comando de borrar)
+git commit --amend (Agrega los cambios que estan en staging al ultimo commit)
+
